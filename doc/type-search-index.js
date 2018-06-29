@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"controle.sistema","l":"Aluno"},{"p":"controle.sistema","l":"Grupo"},{"p":"controle","l":"Main"},{"p":"controle","l":"Sistema"}]
